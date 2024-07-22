@@ -22,7 +22,7 @@ Some notes about me:
 ![Twig](https://img.shields.io/badge/twig-%233B3B28.svg?style=for-the-badge&logo=twig&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
-## Tools & Frameworks
+## Current Tools & Frameworks
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Gutenberg](https://img.shields.io/badge/Gutenberg-00A4DC.svg?style=for-the-badge&logo=gutenberg&logoColor=white)
