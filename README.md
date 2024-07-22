@@ -1,6 +1,7 @@
 # Hi I'm Troy 👋
 
 [![View my resume](https://img.shields.io/badge/View%20my%20resume-0c6e50?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/troychaplin/troychaplin/blob/master/resume/troy-chaplin-resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/troychaplin/)
 
 <!-- <img src="https://komarev.com/ghpvc/?username=troychaplin&color=191919&style=for-the-badge" alt="Profile Views" style="height:28px;"> -->
 
