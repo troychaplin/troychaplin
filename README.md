@@ -1,4 +1,4 @@
-![Header](./assets/header.png)
+![Header](./assets/profile-header.png)
 
 <!-- # Hi I'm Troy 👋 -->
 
