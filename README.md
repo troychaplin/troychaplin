@@ -77,6 +77,6 @@ Some notes about me:
   <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=troychaplin&theme=nord&layout=compact&langs_count=8" />
 </a>
 
-## GitHub Trophies
+<!-- ## GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=troychaplin&theme=nord&column=6&margin-w=15&margin-h=15&no-frame=true)](https://github.com/troychaplin)
+[![trophy](https://github-profile-trophy.vercel.app/?username=troychaplin&theme=nord&column=6&margin-w=15&margin-h=15&no-frame=true)](https://github.com/troychaplin) -->
