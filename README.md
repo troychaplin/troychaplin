@@ -42,7 +42,7 @@ Some notes about me:
 
 ## Other tools & frameworks
 
-![Timber for WordPress](https://img.shields.io/badge/Timber%20%for%20%WordPress-6B8E23?style=for-the-badge&logo=timber&logoColor=white)
+![Timber](https://img.shields.io/badge/Timber%20%for%20%WordPress-6B8E23?style=for-the-badge&logo=timber&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
