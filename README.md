@@ -4,8 +4,6 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/troychaplin/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:troy.chaplin@gmail.com)
 
-<!-- <img src="https://komarev.com/ghpvc/?username=troychaplin&color=191919&style=for-the-badge" alt="Profile Views" style="height:28px;"> -->
-
 I'm a frontend developer who loves designing and developing React components. I have also been a WordPress enthusiast for nearly 20 years and love creating custom Gutenberg blocks that provide the best user experience as possible.
 
 Some notes about me:
@@ -16,7 +14,7 @@ Some notes about me:
 - 💬 Ask me about building custom Gutenberg blocks and block accessibility
 - ⚡ Fun fact: my first name is actually Michael
 
-## Languages I know
+## Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -56,7 +54,7 @@ Some notes about me:
 ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) -->
 
-## What I am focused on improving
+## Currently levelling up
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
