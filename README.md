@@ -14,8 +14,6 @@ Some notes about me:
 - 💬 Ask me about building custom Gutenberg blocks and block accessibility
 - ⚡ Fun fact: my first name is actually Michael
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=troychaplin&theme=nord&column=6&margin-w=15&margin-h=15)](https://github.com/troychaplin)
-
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -78,3 +76,5 @@ Some notes about me:
 <a href="https://github.com/troychaplin">
   <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=troychaplin&theme=nord&layout=compact&langs_count=8" />
 </a>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=troychaplin&theme=nord&column=6&margin-w=15&margin-h=15&no-frame=true)](https://github.com/troychaplin)
