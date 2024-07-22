@@ -1,6 +1,6 @@
 # Hi I'm Troy 👋
 
-<img src="https://komarev.com/ghpvc/?username=troychaplin&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:50px;">
+<img src="https://komarev.com/ghpvc/?username=troychaplin&color=dc143c&style=for-the-badge" alt="Profile Views" style="height:28px;">
 
 I'm a frontend developer who loves designing and developing React components. I have also been a WordPress enthusiast for nearly 20 years and love creating custom Gutenberg blocks that provide the best user experience as possible.
 
