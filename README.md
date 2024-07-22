@@ -71,7 +71,7 @@ Some notes about me:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=troychaplin&theme=nord&card_width=900)](https://git.io/streak-stats)
 
 <a href="https://github.com/troychaplin">
-  <img width="59%" align="top" src="https://github-readme-stats.vercel.app/api?username=troychaplin&show_icons=true&theme=nord&show=prs_merged_percentage&custom_title=Troy's%20%Public%20%Repo%20%Stats" />
+  <img width="59%" align="top" src="https://github-readme-stats.vercel.app/api?username=troychaplin&show_icons=true&theme=nord&show=prs_merged_percentage&custom_title=Public%20%Repo%20%Stats" />
 </a>
 <a href="https://github.com/troychaplin">
   <img width="40%" align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=troychaplin&theme=nord&layout=compact" />
