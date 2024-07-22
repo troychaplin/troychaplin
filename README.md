@@ -1,4 +1,6 @@
-# Hi I'm Troy 👋
+![Header](./assets/github-header-image.png)
+
+<!-- # Hi I'm Troy 👋 -->
 
 [![View my resume](https://img.shields.io/badge/View%20my%20resume-0c6e50?style=for-the-badge&logo=googledocs&logoColor=white)](https://github.com/troychaplin/troychaplin/blob/master/resume/troy-chaplin-resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/troychaplin/)
