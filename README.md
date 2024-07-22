@@ -14,6 +14,8 @@ Some notes about me:
 - 💬 Ask me about building custom Gutenberg blocks and block accessibility
 - ⚡ Fun fact: my first name is actually Michael
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=troychaplin&theme=onedark)](https://github.com/troychaplin)
+
 ## Languages
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
