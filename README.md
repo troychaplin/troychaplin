@@ -30,7 +30,7 @@ Some notes about me:
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
 ![Webpack](https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)
-![Git Actions](https://img.shields.io/badge/Git_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 <!-- ![Timber](https://img.shields.io/badge/Timber-6B8E23?style=for-the-badge&logo=timber&logoColor=white) -->
 <!-- ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
