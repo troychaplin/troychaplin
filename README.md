@@ -14,7 +14,7 @@ Some notes about me:
 - 💬 Ask me about building custom Gutenberg blocks and block accessibility
 - ⚡ Fun fact: my first name is actually Michael
 
-## Languages
+## Languages I know
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -24,7 +24,7 @@ Some notes about me:
 ![Twig](https://img.shields.io/badge/twig-%233B3B28.svg?style=for-the-badge&logo=twig&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) 
 
-## Things I Currently Use
+## Things I currently use
 
 ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=wordpress&logoColor=white)
 ![Gutenberg](https://img.shields.io/badge/Gutenberg-00A4DC.svg?style=for-the-badge&logo=gutenberg&logoColor=white)
@@ -42,7 +42,7 @@ Some notes about me:
 <!-- ![phpMyAdmin](https://img.shields.io/badge/phpMyAdmin-%236C78AF.svg?style=for-the-badge&logo=phpmyadmin&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) -->
 
-## Learning
+## Where I am focusing on learning
 
 ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
