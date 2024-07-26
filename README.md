@@ -6,7 +6,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/troychaplin/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:troy.chaplin@gmail.com)
 
-I'm a frontend developer who loves designing and developing React components. I have also been a WordPress enthusiast for nearly 20 years and love creating custom Gutenberg blocks that provide the best user experience as possible.
+I'm a frontend developer who loves designing and developing React components and am passionate about web accessibility. I have also been a WordPress enthusiast for nearly 20 years and love creating custom Gutenberg blocks that provide the best user experience as possible.
 
 Some notes about me:
 
