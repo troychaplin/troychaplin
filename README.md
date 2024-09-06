@@ -13,7 +13,7 @@ Some notes about me:
 - 🌱 I’m currently learning NextJS, Laravel and getting up to speed on WordPress block themes
 - 👯 I’m looking to collaborate on anything relating to WordPress or Gutenberg
 - 💬 Ask me about building custom Gutenberg blocks and block accessibility
-- ⚡ Fun fact: This one time, at band camp.
+- ⚡ Fun fact: I am from a town whose [high school would close](https://www.cbc.ca/nl/blogs/ryansnoddon/2011/01/how-cold-is-too-cold-in-lab-west.html) when temps hit -83°C
 
 ## Languages
 
