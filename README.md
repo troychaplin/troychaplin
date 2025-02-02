@@ -37,7 +37,6 @@ const about = {
     <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=troychaplin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
   </a>
 </div>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=troychaplin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 
 ## WordPress, community and contributions
 
