@@ -25,7 +25,7 @@ const about = {
 
 <div>
   <img width="49.5%" align="top" src="https://streak-stats.demolab.com/?user=troychaplin&theme=react&border=61dafb&hide_border=true" />
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=troychaplin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  <img width="49.5%" align="top" src="https://github-readme-stats.vercel.app/api?username=troychaplin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
 </div>
 
 ## WordPress, Community and Contributions
