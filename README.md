@@ -24,12 +24,8 @@ const about = {
 ### GitHub Stats
 
 <div style="display:flex;gap:15px">
-  <div style="flex:1">
-    <img width="100%" align="top" src="https://streak-stats.demolab.com/?user=troychaplin&theme=react&border=61dafb" />
-  </div>
-  <div style="flex:1">
-    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=troychaplin&show_icons=true&theme=react&border_color=61dafb" />
-  </div>
+    <img width="50%" align="top" src="https://streak-stats.demolab.com/?user=troychaplin&theme=react&border=61dafb" />
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=troychaplin&show_icons=true&theme=react&border_color=61dafb" />
 </div>
 
 ## WordPress, Community and Contributions
