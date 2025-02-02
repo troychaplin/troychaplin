@@ -7,7 +7,7 @@ I'm a senior frontend developer who loves designing, developing and building Rea
 
 ## A few things about me
 
-```js
+```javascript
 const about = {
   pronouns: "he" | "him",
   code: ["Javascript", "Typescript", "PHP", "HTML", "CSS", "Twig"],
@@ -29,7 +29,7 @@ const about = {
 
 ## WordPress, community and contributions
 
-```js
+```javascript
 const community = {
   profile: "https://profiles.wordpress.org/areziaal",
   since: "2009",
@@ -60,3 +60,15 @@ const community = {
   },
 };
 ```
+
+### GitHub Stats
+
+<div>
+  <a href="https://github.com/troychaplin">
+    <img width="51%" align="top" src="https://streak-stats.demolab.com/?user=troychaplin&theme=react&border=61dafb&hide_border=true" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
+    <img width="48.5%" src="https://github-readme-stats.vercel.app/api?username=troychaplin&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+  </a>
+</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=troychaplin&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
