@@ -15,7 +15,7 @@ I'm a senior frontend developer who loves designing, developing and building Rea
 * 🤔 I’m looking for volunteers and sponsors [WordCamp Canada 2025](https://canada.wordcamp.org/2025/).
 * 💬 Ask me about [contributing](https://developer.wordpress.org/news/how-to-contribute/) to the [WordPress Developer Blog](https://developer.wordpress.org/news/).
 * 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/troychaplin/), [Slack](https://wordpress.slack.com/team/U037DA4G0)
-* ❤️ I love my family
+* ❤️ Balancing life as a dad, husband, and a creator who loves to build.
 
 ### GitHub Stats
 
