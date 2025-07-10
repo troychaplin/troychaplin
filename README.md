@@ -12,3 +12,12 @@ I currently contribute about 10-15 hours a week towards contributions to Gutenbe
 I addition to this I maintain a [Block Accessibility Check](https://wordpress.org/plugins/block-accessibility-checks/) plugin and I enjoy building tools and starter packages aimed to help developers, such as a [multi-block starter plugin](https://github.com/troychaplin/multi-block-starter), and a [monorepo manager](https://github.com/troychaplin/wp-monorepo-manager) for dependency and asset management.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=troychaplin&show_icons=true&theme=github_dark_dimmed)
+
+<div>
+    <div style="width:49%;padding-right:49%">
+        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=troychaplin&theme=blueberry)
+    </div>
+    <div style="width:49%;padding-left:49%">
+        ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=troychaplin&theme=blueberry&utcOffset=-5)
+    </div>
+</div>
