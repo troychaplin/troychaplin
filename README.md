@@ -13,12 +13,11 @@ I addition to this I maintain a [Block Accessibility Check](https://wordpress.or
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=troychaplin&show_icons=true&theme=github_dark_dimmed)
 
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=troychaplin&theme=blueberry)
-
 <div>
     <div style="width:49%;padding-right:49%">
+        ![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=troychaplin&theme=blueberry)
     </div>
     <div style="width:49%;padding-left:49%">
-        ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=troychaplin&theme=blueberry&utcOffset=-5)
+        ![Production](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=troychaplin&theme=blueberry&utcOffset=-5)
     </div>
 </div>
