@@ -10,5 +10,3 @@ I addition to this I maintain a [Block Accessibility Check](https://wordpress.or
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/troychaplin.bsky.social)
 [![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)](https://wordpress.slack.com/team/U037DA4G0)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:troy.chaplin@gmail.com)
-
-![](https://raw.githubusercontent.com/troychaplin/github-stats/master/generated/overview.svg#gh-dark-mode-only)
