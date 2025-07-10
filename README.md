@@ -10,3 +10,5 @@ I’m a senior frontend developer who loves designing, developing and building R
 I currently contribute about 10-15 hours a week towards contributions to Gutenberg and the WordPress Developer Blog and I would like to become more involved in the themes and design teams in the future. Part of my time is currently sponsored by Kinsta.
 
 I addition to this I maintain a [Block Accessibility Check](https://wordpress.org/plugins/block-accessibility-checks/) plugin and I enjoy building tools and starter packages aimed to help developers, such as a [multi-block starter plugin](https://github.com/troychaplin/multi-block-starter), and a [monorepo manager](https://github.com/troychaplin/wp-monorepo-manager) for dependency and asset management.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=troychaplin&show_icons=true&theme=github_dark_dimmed)
