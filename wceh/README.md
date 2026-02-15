@@ -55,6 +55,11 @@
                 "slug": "highlight"
             },
             {
+                "color": "#d8613c",
+                "name": "Hover",
+                "slug": "hover"
+            },
+            {
                 "color": "#ffffff",
                 "name": "White",
                 "slug": "white"
@@ -71,9 +76,12 @@
     "typography": {
         "fontSizes": [
             {
-                "fluid": false,
+                "fluid": {
+                    "max": "0.95rem",
+                    "min": "0.8rem"
+                },
                 "name": "Small",
-                "size": "0.88rem",
+                "size": "0.8rem",
                 "slug": "small"
             },
             {
