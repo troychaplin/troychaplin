@@ -64,7 +64,14 @@
                 "name": "White",
                 "slug": "white"
             }
-        ]
+        ],
+        "gradients": [
+            {
+                "gradient": "linear-gradient(135deg,rgb(13,20,32) 30%,rgba(35,56,87,0.45) 100%)",
+                "name": "Darkest to Darker",
+                "slug": "custom-darkest-to-darker"
+            },
+        ],
     }
 }
 ```
@@ -123,6 +130,15 @@
             {
                 "fluid": {
                     "max": "4rem",
+                    "min": "3.15rem"
+                },
+                "name": "Page Title",
+                "size": "3.15rem",
+                "slug": "page-title"
+            },
+            {
+                "fluid": {
+                    "max": "6.5rem",
                     "min": "3.15rem"
                 },
                 "name": "Page Title",
