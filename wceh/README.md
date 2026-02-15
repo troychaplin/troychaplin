@@ -73,12 +73,12 @@
             {
                 "fluid": false,
                 "name": "Small",
-                "size": "0.875rem",
+                "size": "0.88rem",
                 "slug": "small"
             },
             {
                 "fluid": {
-                    "max": "1.125rem",
+                    "max": "1.13rem",
                     "min": "1rem"
                 },
                 "name": "Medium",
@@ -87,8 +87,8 @@
             },
             {
                 "fluid": {
-                    "max": "1.375rem",
-                    "min": "1.125rem"
+                    "max": "1.38rem",
+                    "min": "1.13rem"
                 },
                 "name": "Large",
                 "size": "1.38rem",
@@ -111,6 +111,15 @@
                 "name": "Extra Extra Large",
                 "size": "2.15rem",
                 "slug": "xx-large"
+            },
+            {
+                "fluid": {
+                    "max": "4rem",
+                    "min": "3.15rem"
+                },
+                "name": "Page Title",
+                "size": "3.15rem",
+                "slug": "page-title"
             }
         ],
     }
