@@ -9,6 +9,12 @@ body {
     position: relative;
 }
 
+/* Main Spacing */
+
+main:has(> .wp-block-post-content > .wide-group:last-child) + footer {
+    margin-top: calc(var(--wp--preset--spacing--40) * -1);
+}
+
 /* Site Title */
 
 .wp-block-site-title a:hover {
