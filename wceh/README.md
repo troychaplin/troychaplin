@@ -13,26 +13,17 @@
 - Primary: Light - `#CAD9ED`
 - Primary: Lighter - `#E7EDF7`
 - Primary: Lightest - `#F4F6Fb`
+
+### Additional Colors
+
 - Highlight - `#74e3a5`
 - Accent - `#d8613c`
 - Black - `#000000`
-- White - `#FFFF`
+- White - `#FFFFFF`
+- White: Faint - `#FFFFFF10`
+- White: Pale - `#FFFFFF20`
+- White: Light - `#FFFFFF40`
 
-### Alternate Colors
-
-[View full palette](https://uicolors.app/generate/161920)
-
-- Primary: Darkest - `#002268`
-- Primary: Darker - `#0037B3`
-- Primary: Dark - `#0039E6`
-- Primary - `#0045FF`
-- Primary: Light - `#A7E1FF`
-- Primary: Lighter - `#CEEDFF`
-- Primary: Lightest - `#E9f7FF`
-- Highlight - `#00c853`
-- Accent - `#d8613c`
-- Black - `#000000`
-- White - `#FFFF`
 
 ## Font Presets
 
