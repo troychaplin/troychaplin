@@ -55,7 +55,7 @@ main:has(> .wp-block-post-content > .wide-group:last-child) + footer {
 .wide-group {
     padding-top: var(--wp--preset--spacing--40);
     padding-bottom: var(--wp--preset--spacing--40);
-    margin-top: var(--wp--preset--spacing--40);
+    margin-top: 0;
 }
 
 .wide-group + .wide-group {
