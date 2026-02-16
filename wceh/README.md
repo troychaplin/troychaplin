@@ -63,6 +63,11 @@
                 "color": "#ffffff",
                 "name": "White",
                 "slug": "white"
+            },
+            {
+                "color": "#ffffff12",
+                "name": "White: Faint",
+                "slug": "white-faint"
             }
         ],
         "gradients": [
@@ -102,11 +107,11 @@
             },
             {
                 "fluid": {
-                    "max": "1.38rem",
+                    "max": "1.28rem",
                     "min": "1.13rem"
                 },
                 "name": "Large",
-                "size": "1.38rem",
+                "size": "1.28rem",
                 "slug": "large"
             },
             {

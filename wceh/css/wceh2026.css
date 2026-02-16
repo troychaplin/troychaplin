@@ -9,10 +9,17 @@ body {
     position: relative;
 }
 
-/* Core Heading */
+/* Site Title */
 
 .wp-block-site-title a:hover {
     color: var(--wp--preset--color--custom-highlight);
+}
+
+/* Navigation */
+
+.wp-block-navigation .wp-block-navigation-link a:hover {
+    color: var(--wp--preset--color--custom-highlight);
+    text-decoration: none;
 }
 
 /* Core Heading */
@@ -30,4 +37,96 @@ body {
 .wp-block-button .wp-block-button__link:hover {
     background-color: var(--wp--preset--color--custom-hover);
     color: var(--wp--preset--color--custom-white);
+}
+
+.wp-block-button.is-style-outline .wp-block-button__link:hover {
+    background-color: var(--wp--preset--color--custom-hover) !important;
+    border-color: var(--wp--preset--color--custom-hover) !important;
+}
+
+/* Group Classes */
+
+.wide-group {
+    padding-top: var(--wp--preset--spacing--40);
+    padding-bottom: var(--wp--preset--spacing--40);
+    margin-top: var(--wp--preset--spacing--40);
+}
+
+.wide-group + .wide-group {
+    margin-top: 0;
+}
+
+.wide-group.wide-group--dark:not(.wide-group--dividers) + .wide-group.wide-group--dark:not(.wide-group--dividers),
+.wide-group.wide-group--image + .wide-group.wide-group--image {
+    padding-top: 0 !important;
+}
+
+.wide-group + :not(.wide-group) {
+    margin-top: var(--wp--preset--spacing--40);
+}
+
+.wide-group--image {
+    background-color: var(--wp--preset--color--custom-black);
+    background-size: cover;
+    background-position: center;
+}
+
+/* Hero Group */
+
+.wide-group--hero .wp-block-heading {
+    font-weight: 800;
+    line-height: clamp(3.5rem, 5vw + 2rem, 7rem) !important;
+    letter-spacing: clamp(-7px, -0.5vw - 1px, -2px) !important;
+}
+
+/* Card Grids */
+
+.card-grid {
+    display: grid !important;
+}
+
+.card-grid--two {
+    grid-template-columns: repeat(2, 1fr);
+}
+
+.card-grid--three {
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.card-grid--four {
+    grid-template-columns: repeat(4, 1fr);
+}
+
+@media (max-width: 896px) {
+    .card-grid--four {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 768px) {
+    .card-grid--three {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 640px) {
+    .card-grid {
+        grid-template-columns: 1fr;
+    }
+}
+
+@media (max-width: 640px) {
+    .card-grid--mobile-2 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+.card-grid__item:hover {
+    border-color: var(--wp--preset--color--custom-highlight) !important;
+}
+
+/* Footer */
+
+footer.wp-block-template-part {
+    margin-top: 0;
 }
