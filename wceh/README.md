@@ -2,89 +2,37 @@
 
 ## Color Palette
 
-- Primary: #161920 | [View full palette](https://uicolors.app/generate/161920)
-- Highlight: #74E3A5 | [View full palette](https://uicolors.app/generate/74e3a5)
+### Primary Colors
 
-```json
-"settings": {
-    "color": {
-        "palette": [
-            {
-                "color": "#000000",
-                "name": "black",
-                "slug": "black"
-            },
-            {
-                "color": "#0d1420",
-                "name": "Primary: Darkest",
-                "slug": "primary-darkest"
-            },
-            {
-                "color": "#233857",
-                "name": "Primary: Darker",
-                "slug": "primary-darker"
-            },
-            {
-                "color": "#284b7c",
-                "name": "Primary: Dark",
-                "slug": "primary-dark"
-            },
-            {
-                "color": "#315d98",
-                "name": "Primary",
-                "slug": "primary"
-            },
-            {
-                "color": "#cad9ed",
-                "name": "Primary: Light",
-                "slug": "primary-light"
-            },
-            {
-                "color": "#e7edf7",
-                "name": "Primary: Lighter",
-                "slug": "primary-lighter"
-            },
-            {
-                "color": "#f4f6fb",
-                "name": "Primary: Lightest",
-                "slug": "primary-lightest"
-            },
-            {
-                "color": "#74e3a5",
-                "name": "Highlight",
-                "slug": "highlight"
-            },
-            {
-                "color": "#d8613c",
-                "name": "Hover",
-                "slug": "hover"
-            },
-            {
-                "color": "#ffffff",
-                "name": "White",
-                "slug": "white"
-            },
-            {
-                "color": "#ffffff12",
-                "name": "White: Faint",
-                "slug": "white-faint"
-            },
-            {
-                "color": "#FFFFFF40",
-                "name": "White: Pale",
-                "slug": "white-pale"
-            }
-        ],
-        "gradients": [
-            {
-                "gradient": "linear-gradient(135deg,rgb(13,20,32) 30%,rgba(35,56,87,0.45) 100%)",
-                "name": "Darkest to Darker",
-                "slug": "custom-darkest-to-darker"
-            },
-        ],
-    }
-}
-```
+[View full palette](https://uicolors.app/generate/161920)
+
+- Primary: Darkest - `#0D1420`
+- Primary: Darker - `#16283B`
+- Primary: Dark - `#233857`
+- Primary - `#284B7C`
+- Primary: Light - `#CAD9ED`
+- Primary: Lighter - `#E7EDF7`
+- Primary: Lightest - `#F4F6Fb`
+- Highlight - `#74e3a5`
+- Accent - `#d8613c`
+- Black - `#000000`
+- White - `#FFFF`
+
+### Alternate Colors
+
+[View full palette](https://uicolors.app/generate/161920)
+
+- Primary: Darkest - `#002268`
+- Primary: Darker - `#0037B3`
+- Primary: Dark - `#0039E6`
+- Primary - `#0045FF`
+- Primary: Light - `#A7E1FF`
+- Primary: Lighter - `#CEEDFF`
+- Primary: Lightest - `#E9f7FF`
+- Highlight - `#00c853`
+- Accent - `#d8613c`
+- Black - `#000000`
+- White - `#FFFF`
 
 ## Font Presets
 
