@@ -68,6 +68,11 @@
                 "color": "#ffffff12",
                 "name": "White: Faint",
                 "slug": "white-faint"
+            },
+            {
+                "color": "#FFFFFF40",
+                "name": "White: Pale",
+                "slug": "white-pale"
             }
         ],
         "gradients": [
