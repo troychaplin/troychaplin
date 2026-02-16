@@ -1,7 +1,7 @@
 /* Globals */
 
 body {
-    background-color: #08081a;
+    background-color: var(--wp--preset--color--custom-primary-darkest-1);
     background-image: linear-gradient(rgba(13, 20, 32, 0.75), rgba(13, 20, 32, 0.75)), url('https://raw.githubusercontent.com/troychaplin/troychaplin/refs/heads/master/wceh/images/hero-bg.jpg');
     background-size: cover;
     background-position: center;
@@ -75,6 +75,10 @@ main:has(> .wp-block-post-content > .wide-group:last-child) + footer {
     background-color: var(--wp--preset--color--custom-black);
     background-size: cover;
     background-position: center;
+}
+
+.wide-group--fadein {
+    background: linear-gradient(to bottom, transparent 0, var(--wp--preset--color--custom-primary-darkest-1) 800px);
 }
 
 /* Hero Group */
