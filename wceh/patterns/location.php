@@ -28,7 +28,7 @@
 <!-- /wp:paragraph --></div>
 <!-- /wp:group -->
 
-<!-- wp:group {"metadata":{"name":"Details"},"style":{"border":{"top":{"color":"var:preset|color|custom-white-faint","width":"1px"},"bottom":{"color":"var:preset|color|custom-white-faint","width":"1px"},"right":{},"left":{}},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
+<!-- wp:group {"metadata":{"name":"Details"},"style":{"border":{"top":{"color":"var:preset|color|custom-white-faint","width":"1px"},"bottom":{"color":"var:preset|color|custom-white-faint","width":"1px"},"right":[],"left":[]},"spacing":{"blockGap":"0"}},"layout":{"type":"constrained"}} -->
 <div class="wp-block-group" style="border-top-color:var(--wp--preset--color--custom-white-faint);border-top-width:1px;border-bottom-color:var(--wp--preset--color--custom-white-faint);border-bottom-width:1px"><!-- wp:group {"style":{"spacing":{"padding":{"top":"var:preset|spacing|20","bottom":"var:preset|spacing|20","left":"0","right":"0"}}},"layout":{"type":"flex","flexWrap":"nowrap","verticalAlignment":"top"}} -->
 <div class="wp-block-group" style="padding-top:var(--wp--preset--spacing--20);padding-right:0;padding-bottom:var(--wp--preset--spacing--20);padding-left:0"><!-- wp:paragraph {"style":{"layout":{"selfStretch":"fixed","flexSize":"120px"},"spacing":{"padding":{"top":"0","bottom":"0","left":"0","right":"0"}},"typography":{"fontStyle":"normal","fontWeight":"600"}}} -->
 <p style="padding-top:0;padding-right:0;padding-bottom:0;padding-left:0;font-style:normal;font-weight:600">Transit</p>
