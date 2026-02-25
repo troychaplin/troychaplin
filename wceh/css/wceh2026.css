@@ -1,7 +1,7 @@
 /* Globals */
 body {
 	background-color: var(--wp--preset--color--custom-primary-darkest);
-	background-image: linear-gradient(rgba(13, 20, 32, 0.75), rgba(13, 20, 32, 0.75)), url('https://raw.githubusercontent.com/troychaplin/troychaplin/refs/heads/master/wceh/images/hero-bg.jpg');
+	background-image: linear-gradient(rgba(25, 66, 67, 0.25), rgba(25, 66, 67, 0.75)), url('https://raw.githubusercontent.com/troychaplin/troychaplin/refs/heads/master/wceh/images/hero-bg.jpg');
 	background-size: cover;
 	background-position: center;
 	background-attachment: fixed;
@@ -26,6 +26,23 @@ main:has(> .wp-block-post-content > .wide-group:last-child) + footer {
 .wp-block-navigation .wp-block-navigation-link a:hover {
 	color: var(--wp--preset--color--custom-highlight);
 	text-decoration: none;
+}
+
+/* Submenu Navigation */
+.wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
+    overflow: hidden !important;
+    background: linear-gradient(135deg,rgb(9,40,42) 29%,rgb(28,104,105) 100%);
+    border-radius: 4px;
+    border: 2px solid var(--wp--preset--color--custom-primary-darker);
+    color: white;
+}
+
+ul.wp-block-navigation-submenu a {
+    color: white;
+}
+
+ul.wp-block-navigation-submenu a:hover {
+    background-color: rgba(0, 0, 0, 0.15);
 }
 
 /* Core Heading */
@@ -104,7 +121,7 @@ main:has(> .wp-block-post-content > .wide-group:last-child) + footer {
 
 @media (max-width: 1152px) {
 	.card-grid--blog {
-		grid-template-columns: repeat(2, 1fr);
+		grid-template-columns: repeat(2, 1fr) !important;
 	}
 }
 
@@ -116,7 +133,7 @@ main:has(> .wp-block-post-content > .wide-group:last-child) + footer {
 
 @media (max-width: 768px) {
 	.card-grid--three,
-		    .card-grid--blog {
+    .card-grid--blog {
 		grid-template-columns: 1fr;
 	}
 	
@@ -142,6 +159,12 @@ main:has(> .wp-block-post-content > .wide-group:last-child) + footer {
 
 .card-grid__item:hover {
 	border-color: var(--wp--preset--color--custom-highlight) !important;
+}
+
+.card-grid__item--profile figure, .card-grid__item--profile img {
+    width: 100% !important;
+    height: auto !important;
+    border-radius: 3px;
 }
 
 /* Footer */
