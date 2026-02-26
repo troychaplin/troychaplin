@@ -32,8 +32,9 @@ main:has(> .wp-block-post-content > .wide-group:last-child) + footer {
 .wp-block-navigation:not(.has-background) .wp-block-navigation__submenu-container {
     overflow: hidden !important;
     background: linear-gradient(135deg,rgb(9,40,42) 29%,rgb(28,104,105) 100%);
-    border-radius: 4px;
-    border: 2px solid var(--wp--preset--color--custom-primary-darker);
+    border-radius: 7px;
+    border: 1px solid var(--wp--preset--color--custom-white-pale);
+    box-shadow: 6px 6px 0px rgba(0, 0, 0, 0.7);
     color: white;
 }
 
