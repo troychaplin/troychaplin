@@ -1,94 +1,97 @@
-# Github Commands
+# Git Commands
 
 ## Repository Setup
 
-**Initialize and Connect Local Repository**
-
-```
+**Initialize and connect a local repository**
+```bash
 git init
 git branch -m main
 git add .
-git commit -m "Initial commit message"
-git remote add origin <AddRemoteURL>
+git commit -m "Initial commit"
+git remote add origin <RemoteURL>
 git remote -v
 git push origin main
 ```
 
-## Basic Commands
+**Duplicate a repo (full history, no origin link)**
+```bash
+git clone --bare https://github.com/you/old-repo.git
+cd old-repo.git
+git push --mirror https://github.com/you/new-repo.git
+cd ..
+rm -rf old-repo.git
+```
 
-- `git status` - show status of current branch and working directory
-- `git push` - push commits to remote branch
-- `git pull` - pull commits from remote and merge into current branch
-- `git fetch` - fetch commits from remote but do not merge into current branch
+---
+
+## Daily Workflow
+
+- `git status` — show status of current branch and working directory
+- `git add .` — stage all changes
+- `git add <file>` — stage a specific file
+- `git commit -m "message"` — commit staged changes
+- `git push` — push commits to remote branch
+- `git pull` — fetch and merge remote changes into current branch
+- `git fetch` — fetch remote changes without merging
+- `git stash` — stash tracked changes
+- `git stash -u` — stash including untracked files
+- `git stash pop` — apply most recent stash and remove it
+- `git stash list` — list all stashes
+- `git log --oneline` — compact commit history
+- `git diff` — show unstaged changes
+- `git diff --staged` — show staged changes
+
+---
 
 ## Branching
 
-**Viewing Branches**
+**Viewing branches**
+- `git branch` — list local branches
+- `git branch -r` — list remote branches
+- `git branch -a` — list all local and remote branches
 
-- `git branch` - list all local branches
-- `git branch -r` - list all remote branches
-- `git branch -a` - list all local and remote branches
+**Creating and switching**
+- `git checkout -b BranchName` — create and switch to new branch
+- `git checkout BranchName` — switch to existing branch
+- `git switch BranchName` — modern alternative to checkout
+- `git branch -m NewName` — rename current branch
+- `git branch -m OldName NewName` — rename any branch
+- `git push -u origin BranchName` — push branch to remote and set upstream tracking
 
-**Creating and Switching Branches**
+**Merging**
+- `git checkout BranchToMergeInto` — switch to target branch
+- `git merge BranchName` — merge specified branch into current branch
+- `git merge --no-ff BranchName` — merge with a merge commit (preserves branch history)
+- `git rebase BranchName` — rebase current branch onto another
 
-- `git checkout -b BranchName` - create new branch and switch to it
-- `git checkout BranchName` - switch to existing branch
-- `git branch -m OldName NewName` - rename branch (use without OldName to rename current branch)
-- `git push -u origin BranchName` - push local branch to remote and set upstream tracking
+**Deleting**
+- `git branch -d BranchName` — delete local branch (merged only)
+- `git branch -D BranchName` — force delete local unmerged branch
+- `git push origin --delete BranchName` — delete remote branch
 
-**Merging Branches**
+**Cleanup**
+- `git remote update origin --prune` — remove remote tracking refs for deleted branches
+- `find . -name ".DS_Store" -delete` — remove macOS junk files
 
-- `git checkout BranchToMergeInto` - switch to target branch
-- `git merge BranchName` - merge specified branch into current branch
-
-**Deleting Branches**
-
-- `git branch -d BranchName` - delete local branch (only if already merged)
-- `git branch -D BranchName` - force delete local unmerged branch
-- `git push origin --delete BranchName` - delete remote branch
-
-**Cleanup Commands**
-
-- `git remote update origin --prune` - prune list of branches
-- `find . -name ".DS_Store" -delete` - remove files
-- `git stash -u` - stash untracked files
+---
 
 ## Tags
 
-- `git tag 0.0.0` - create a tag at current commit
-- `git push origin --tags` - push all tags to remote
-- `git push origin 0.0.0` - push specific tag to remote
+- `git tag` — list all tags
+- `git tag 0.0.0` — create a lightweight tag at current commit
+- `git tag -a 0.0.0 -m "message"` — create an annotated tag
+- `git tag -a 0.0.0 <commitHash>` — tag a specific past commit
+- `git push origin --tags` — push all tags to remote
+- `git push origin 0.0.0` — push a specific tag
+- `git tag -d 0.0.0` — delete a local tag
+- `git push origin --delete 0.0.0` — delete a remote tag
+
+---
 
 ## Remote Management
 
-- `git remote -v` - list all remote repositories
-- `git remote add origin <URL>` - add remote repository
-- `git remote update origin --prune` - update remote tracking branches and remove deleted ones
-
-## Git Flow
-
-- `git flow init` - initialize git flow in the repository
-
-**Command Structure**
-
-`git flow <branch-type> <command> <name>`
-
-**Branch Types**
-
-- `feature` - for new features
-- `hotfix` - for urgent production fixes
-- `release` - for preparing releases
-
-**Commands**
-
-- `start` - create and switch to a new branch
-- `finish` - merge branch back to main/develop and clean up
-- `publish` - push branch to remote repository
-- `pull` - pull latest commits from remote branch
-
-**Examples**
-
-- `git flow feature start FeatureName` - create a feature branch
-- `git flow feature finish FeatureName` - finalize and merge a feature
-- `git flow release start 0.1.0` - create a release branch
-- `git flow hotfix start 0.1.1` - create a hotfix branch
+- `git remote -v` — list all remotes with URLs
+- `git remote add origin <URL>` — add a remote
+- `git remote set-url origin <URL>` — update remote URL (e.g. after a rename)
+- `git remote remove origin` — remove a remote
+- `git remote update origin --prune` — sync remote tracking branches, remove deleted ones
